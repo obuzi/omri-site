@@ -2,3 +2,7 @@ baseurl = "/"
 languageCode = "en-us"
 theme = "paper"
 paginate = 5
+
+[params]
+
+name = 'YOUR_NAME'
